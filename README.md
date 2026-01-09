@@ -3,7 +3,7 @@
 
 - 🌱 I am **web developer**.
 
-- 🖤 I love **video games, music, English, programming, web design and I enjoy learning something new every day!**
+- 🖤 I love **video games, English, programming, AI, web design and I enjoy learning something new every day!**
 
 - 📫 You can contact me through my email: **raquelrodrim2000@gmail.com**
 
