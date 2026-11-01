@@ -1,14 +1,57 @@
-<h1 align="center">Hi 👋, I'm Raquel Rodríguez</h1>
-<h3 align="center">Programming student</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E11D48,100:2B1721&height=200&section=header&text=Raquel%20Rodr%C3%ADguez&fontSize=56&fontColor=FFF8F7&fontAlignY=36&desc=Frontend%20Developer%20%C2%B7%20Valencia%2C%20Spain&descSize=18&descAlignY=58" alt="Raquel Rodríguez — Frontend Developer from Valencia, Spain" width="100%" />
 
-- 🌱 I am **web developer**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=500&size=24&duration=3500&pause=1000&color=E11D48&center=true&vCenter=true&width=560&lines=Hi+%F0%9F%91%8B%2C+I'm+Raquel;I+build+responsive+websites;React+%C2%B7+Next.js+%C2%B7+Tailwind+CSS;From+design+to+production" alt="Hi, I'm Raquel. I build responsive websites with React, Next.js and Tailwind CSS." />
+</p>
 
-- 🖤 I love **video games, English, programming, AI, web design and I enjoy learning something new every day!**
+<p align="center">
+  <a href="https://raquelrodriguez.vercel.app"><img src="https://img.shields.io/badge/Portfolio-E11D48?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/raquelrodrim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:raquelrodrim2000@gmail.com"><img src="https://img.shields.io/badge/Email-2B1721?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/raquelscommits"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+</p>
 
+---
 
+### 💫 About me
 
+- 💻 **Frontend developer** with a degree in Web Application Development (2024).
+- 🚀 Did my internship at **Miivo**, a sustainable mobility startup, building new pages and sections for its website with Next.js and Tailwind CSS.
+- 🎨 Passionate about **web design, UI and UX**: I love turning a sketch into a website that looks great on every screen.
+- 🌍 Based in **Valencia, Spain** · English B2.
+- 🎮 Outside of code: video games, AI and learning something new every day.
 
-<p align="left"> <a href="https://twitter.com/raquelscommits" target="blank"><img src="https://img.shields.io/twitter/follow/raquelscommits?logo=twitter&style=for-the-badge" alt="itsmer4quel" /></a> </p>
+### 🛠️ Tech stack
 
-<h3 align="left">Languages and Tools:</h3>
-</a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,vscode" alt="Git, GitHub, Figma, Vercel, VS Code" />
+</p>
+
+**Also worked with**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,java,mysql,linux" alt="PHP, Java, MySQL, Linux" />
+</p>
+
+### ✨ Featured work
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| 🌸 [**Portfolio**](https://raquelrodriguez.vercel.app) | My personal site, with projects, experience and case studies · [code](https://github.com/raquelscommits/portfolio-raquel) | React · Tailwind CSS |
+| 🚲 [**Miivo — case study**](https://raquelrodriguez.vercel.app/#miivo) | Sustainability page, “Miivo in data” section, transport carousel and API page for a mobility startup | Next.js · TypeScript · Tailwind CSS |
+| 🛍️ [**JESMAIMEDIA**](https://jesmaimedia.vercel.app/) | Online store for downloadable digital products | Next.js · TypeScript · Tailwind CSS |
+| 🧰 [**Carda Servicios**](https://cardaservicios.es/) | Modern website for the company Carda | HTML · CSS · JavaScript |
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by! Let's build something beautiful together 💜</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1721,100:E11D48&height=100&section=footer" alt="" width="100%" />
