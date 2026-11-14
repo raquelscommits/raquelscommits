@@ -15,7 +15,7 @@
 
 ### 💫 About me
 
-- 💻 **Frontend developer*.
+- 💻 **Frontend developer**.
 - 🚀 Did my internship at **Miivo**, a sustainable mobility startup, building new pages and sections for its website with Next.js and Tailwind CSS.
 - 🎨 Passionate about **web design, UI and UX**: I love turning a sketch into a website that looks great on every screen.
 - 🌍 Based in **Valencia, Spain** · English B2.
